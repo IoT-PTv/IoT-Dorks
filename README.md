@@ -4,9 +4,9 @@ Useful dorks from google,shodan,zoomeye,onphye
 
 
 ### Google
- `intext : datasheet , configuration , manual , settingup , guide
+ ~~intext : datasheet , configuration , manual , settingup , guide
     filetype : pdf , doc etc
-    device** : name of the brand or type of the device like camera,smarthome or anything else`
+    device** : name of the brand or type of the device like camera,smarthome or anything else~~
 
 
 ### Shodan
