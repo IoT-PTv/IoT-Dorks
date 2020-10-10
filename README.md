@@ -10,8 +10,11 @@ Useful dorks from google,shodan,zoomeye,onphye
   - usage : intext:datasheet filetype:docx device:camera
 
 
-### Shodan
+### [Shodan](https://github.com/jakejarvis/awesome-shodan-queries)
 
+Search keyword
+   1. internet of things
+   2. upnp httpd 
 
 
 ### censys
