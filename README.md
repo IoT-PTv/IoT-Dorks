@@ -13,8 +13,8 @@ Useful dorks from google,shodan,zoomeye,onphye
 ### [Shodan](https://github.com/jakejarvis/awesome-shodan-queries)
 
 Search keyword
-   1. internet of things
-   2. upnp httpd 
+   1. "internet of things"
+   2. "upnp httpd"
 
 
 ### censys
